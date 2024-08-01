@@ -7,4 +7,4 @@ A repo for ECE/EE master application in U.S.
 
 
 
-<img src="./README.assets/zjui.png" alt="zjui" style="zoom:33%;" />
+<img src="zjui.png" alt="zjui" style="zoom:33%;" />
