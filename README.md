@@ -24,4 +24,4 @@ A repo for ECE/EE master application in U.S.
 
 ## ***欢迎大家Star, ISSUE, PR!***
 
-<img src="qrcode.png" alt="qrcode for repo" style="zoom:20%;" />
+<img src="qrcode.png" alt="qrcode" style="zoom:20%;" />
